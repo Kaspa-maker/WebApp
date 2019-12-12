@@ -17,6 +17,11 @@ The second assignment was to create an API to the web app that we previously cre
 
 When adding the API to the formula 1 app I followed the labs of installing all necessary files to implement the API. Then using mongo I created a database and created an .env file that stored the localhost address there so it would be possible to connect to the server.
 
+## Firebase authentication
+Added firebase authentication to the web app. Now anytime someone visits the website first they have to log in or sign up using a valid email and a password that is atleast 6 characters long.
+
+![Screenshot](firebase.PNG)
+
 ## Design after API implementation
 
 ![Screenshot](driverswithapi.PNG)
