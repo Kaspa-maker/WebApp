@@ -22,10 +22,10 @@ When adding the API to the formula 1 app I followed the labs of installing all n
 ![Screenshot](driverswithapi.PNG)
 Driver tab after implementing API. Now you can add drivers using the add driver button.
 
-![Screenshot](adding driver.PNG)
+![Screenshot](addingdriver.PNG)
 Entering necessary details into the boxes and pressing Add driver will add a new driver to the tab and to the API.
 
-![Screenshot](driver added.PNG)
+![Screenshot](driveradded.PNG)
 Displaying the new driver that was added.
 
 ![Screenshot](driverremove.PNG)
